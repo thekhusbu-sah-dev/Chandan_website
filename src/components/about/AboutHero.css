@@ -1,0 +1,10 @@
+.hero-cinematic .hero-description {
+  color: #666;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+
+body.dark-mode .hero-cinematic .hero-description {
+  color: #bbb;
+}

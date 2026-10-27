@@ -1,0 +1,8 @@
+.product-card-wrapper {
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.product-card .product-category-badge {
+  margin-bottom: 8px;
+  display: inline-block;
+}

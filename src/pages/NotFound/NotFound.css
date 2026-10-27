@@ -1,0 +1,19 @@
+.not-found-page {
+  padding: 120px 5% 80px;
+  text-align: center;
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.not-found-page .not-found-text {
+  font-size: 1.1rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+body.dark-mode .not-found-page .not-found-text {
+  color: #aaa;
+}

@@ -1,0 +1,16 @@
+.roofing-section .roofing-heading {
+  font-size: 2rem;
+  margin-bottom: 16px;
+  color: var(--theme);
+}
+
+.roofing-section .roofing-desc {
+  max-width: 850px;
+  margin: 0 auto;
+  color: #666;
+  line-height: 1.7;
+}
+
+body.dark-mode .roofing-section .roofing-desc {
+  color: #bbb;
+}

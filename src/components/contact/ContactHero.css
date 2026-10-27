@@ -1,0 +1,31 @@
+.contact-hero-section {
+  text-align: center;
+}
+
+.contact-hero-section .hero-title {
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 16px;
+}
+
+.contact-hero-section .hero-title span {
+  color: var(--theme);
+}
+
+body.dark-mode .contact-hero-section .hero-title span {
+  color: #ffd966;
+}
+
+.contact-hero-section .hero-subtitle {
+  text-align: center;
+  max-width: 750px;
+  margin: 0 auto;
+  color: #666;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+body.dark-mode .contact-hero-section .hero-subtitle {
+  color: #bbb;
+}

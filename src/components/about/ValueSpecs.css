@@ -1,0 +1,52 @@
+.passion-section .final-quote {
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: var(--theme);
+}
+
+.passion-card .passion-icon {
+  display: flex;
+  gap: 10px;
+  font-size: 24px;
+  color: var(--theme);
+  margin-bottom: 16px;
+}
+
+.passion-card .passion-card-title {
+  margin-bottom: 12px;
+  font-size: 1.3rem;
+}
+
+.passion-card .passion-card-desc {
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  margin-bottom: 16px;
+}
+
+body.dark-mode .passion-card .passion-card-desc {
+  color: #bbb;
+}
+
+.passion-card .tool-badge {
+  margin-top: 16px;
+  background: rgba(159, 28, 28, 0.08);
+  color: var(--theme);
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: inline-block;
+}
+
+body.dark-mode .passion-card .tool-badge {
+  background: rgba(255, 217, 102, 0.15);
+  color: #ffd966;
+}
+
+.passion-card .tool-badge i {
+  margin-right: 6px;
+}

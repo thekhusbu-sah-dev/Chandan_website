@@ -1,0 +1,25 @@
+.about-preview {
+  padding: 80px 5%;
+  background: rgba(159, 28, 28, 0.02);
+}
+
+body.dark-mode .about-preview {
+  background: rgba(255, 217, 102, 0.02);
+}
+
+.about-preview .preview-heading {
+  font-size: 2.2rem;
+  margin-bottom: 16px;
+  color: var(--theme);
+}
+
+.about-preview .preview-desc {
+  color: #666;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+
+body.dark-mode .about-preview .preview-desc {
+  color: #bbb;
+}

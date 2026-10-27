@@ -1,0 +1,11 @@
+.subcategory-hero-desc {
+  margin-top: 16px;
+  color: #666;
+  font-size: 1.1rem;
+  max-width: 750px;
+  margin: 16px auto 0;
+}
+
+body.dark-mode .subcategory-hero-desc {
+  color: #bbb;
+}

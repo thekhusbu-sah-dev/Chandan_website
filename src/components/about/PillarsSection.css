@@ -1,0 +1,9 @@
+.pillars .pillar-desc {
+  color: #666;
+  margin-top: 8px;
+  font-size: 0.95rem;
+}
+
+body.dark-mode .pillars .pillar-desc {
+  color: #bbb;
+}

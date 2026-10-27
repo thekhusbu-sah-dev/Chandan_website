@@ -1,0 +1,36 @@
+/* Existing Footer styles + new helper classes */
+.footer-logo-img {
+  width: 50px;
+  height: auto;
+}
+
+.footer-address-item {
+  font-size: 0.88rem;
+  line-height: 1.5;
+}
+
+.glow-orb-1 {
+  width: 280px;
+  height: 280px;
+  bottom: -80px;
+  left: -50px;
+  animation-duration: 16s;
+}
+
+.glow-orb-2 {
+  width: 380px;
+  height: 380px;
+  top: -100px;
+  right: -70px;
+  animation-duration: 22s;
+  animation-delay: 1s;
+}
+
+.glow-orb-3 {
+  width: 200px;
+  height: 200px;
+  bottom: 20%;
+  left: 20%;
+  animation-duration: 13s;
+  animation-delay: 2s;
+}

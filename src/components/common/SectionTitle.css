@@ -1,0 +1,33 @@
+.section-header {
+  margin-bottom: 40px;
+}
+
+.section-header.center-title {
+  text-align: center;
+}
+
+.section-header h2 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+}
+
+.section-header h2 span {
+  color: var(--theme);
+}
+
+body.dark-mode .section-header h2 span {
+  color: #ffd966;
+}
+
+.section-subtitle {
+  font-size: 1.05rem;
+  color: #666;
+  max-width: 650px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+body.dark-mode .section-subtitle {
+  color: #aaa;
+}
