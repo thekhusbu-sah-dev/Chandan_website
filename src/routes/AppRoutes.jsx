@@ -5,10 +5,10 @@ import Home from '../pages/Home/Home';
 import About from '../pages/About/About';
 import Products from '../pages/products/Products';
 import Contact from '../pages/Contact/Contact';
-import Tiles from '../pages/Products/details/Tiles';
-import Bathroom from '../pages/Products/details/Bathroom';
-import Kitchen from '../pages/Products/details/Kitchen';
-import Sanitary from '../pages/Products/details/Sanitary';
+import Tiles from '../pages/products/details/Tiles';
+import Bathroom from '../pages/products/details/Bathroom';
+import Kitchen from '../pages/products/details/Kitchen';
+import Sanitary from '../pages/products/details/Sanitary';
 import CategoryPage from '../pages/CategoryPage';
 import NotFound from '../pages/NotFound/NotFound';
 
