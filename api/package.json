@@ -1,0 +1,8 @@
+{
+  "name": "chandan-ceramics-api",
+  "version": "1.0.0",
+  "description": "Vercel serverless functions for Chandan Ceramics",
+  "dependencies": {
+    "mongoose": "^8.5.2"
+  }
+}
